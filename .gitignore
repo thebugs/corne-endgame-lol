@@ -1,0 +1,10 @@
+# west workspace (local Docker builds)
+/zmk/
+/zephyr/
+/modules/
+/optional/
+/bootloader/
+/tools/
+/.west/
+/build/
+/firmware/
