@@ -137,7 +137,7 @@
 &kp TAB      &kp Q          &kp Y         &kp O                       &kp U            &kp EQUAL      &kp X            &kp L             &kp D             &kp P         &kp Z               &kp LC(C)
 &kp B        &hrl LSHIFT C  &hrl LCTRL I  &hrl LEFT_ALT A             &hrl LEFT_GUI E  &kp MINUS      &kp K            &hrr RIGHT_GUI H  &hrr RIGHT_ALT T  &hrr RCTRL N  &hrr RIGHT_SHIFT S  &kp W
 &lt 2 GRAVE  &kp APOS       &kp COMMA     &kp DOT                     &kp SEMI         &kp FSLH       &kp J            &kp M             &kp G             &kp F         &kp V               &lt 2 AMPERSAND
-                                          &sk LA(LC(LG(LEFT_SHIFT)))  &lt 1 RETURN     &lt 3 SPACE    &lt 3 BACKSPACE  &kp R             &gresc
+                                          &sk LA(LC(LG(LEFT_SHIFT)))  &lt 1 SPACE      &lt 3 ENTER    &lt 3 BACKSPACE  &kp R             &gresc
             >;
         };
 
